@@ -1,0 +1,11 @@
+C:\Users\Alexandra\source\repos\Lab02_Pakhomov\Lab02_Pakhomov\bin\Debug\Lab02_Pakhomov.exe.config
+C:\Users\Alexandra\source\repos\Lab02_Pakhomov\Lab02_Pakhomov\bin\Debug\Lab02_Pakhomov.exe
+C:\Users\Alexandra\source\repos\Lab02_Pakhomov\Lab02_Pakhomov\bin\Debug\Lab02_Pakhomov.pdb
+C:\Users\Alexandra\source\repos\Lab02_Pakhomov\Lab02_Pakhomov\obj\Debug\Lab02_Pakhomov.csproj.AssemblyReference.cache
+C:\Users\Alexandra\source\repos\Lab02_Pakhomov\Lab02_Pakhomov\obj\Debug\Lab02_Pakhomov.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexandra\source\repos\Lab02_Pakhomov\Lab02_Pakhomov\obj\Debug\Lab02_Pakhomov.Form1.resources
+C:\Users\Alexandra\source\repos\Lab02_Pakhomov\Lab02_Pakhomov\obj\Debug\Lab02_Pakhomov.Properties.Resources.resources
+C:\Users\Alexandra\source\repos\Lab02_Pakhomov\Lab02_Pakhomov\obj\Debug\Lab02_Pakhomov.csproj.GenerateResource.cache
+C:\Users\Alexandra\source\repos\Lab02_Pakhomov\Lab02_Pakhomov\obj\Debug\Lab02_Pakhomov.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\source\repos\Lab02_Pakhomov\Lab02_Pakhomov\obj\Debug\Lab02_Pakhomov.exe
+C:\Users\Alexandra\source\repos\Lab02_Pakhomov\Lab02_Pakhomov\obj\Debug\Lab02_Pakhomov.pdb
